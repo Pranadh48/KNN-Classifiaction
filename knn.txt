@@ -1,0 +1,9 @@
+knn is used for classification , pattern recognition , similarity based prediction , recommendation system type of data or problem
+Ex: 
+movie recommendation 
+customer segmentation
+handwritting recognition
+disease prediction
+
+knn:
+
